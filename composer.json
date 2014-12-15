@@ -1,0 +1,13 @@
+{
+    "name": "Ferdi/tutorial-composer",
+    "require": {
+        "nesbot/carbon": "1.11.0",
+        "league/flysystem": "0.5.5"
+    },
+    "authors": [
+        {
+            "name": "Ferdi Ramdhon",
+            "email": "ferdirn@gmail.com"
+        }
+    ]
+}
